@@ -18,11 +18,11 @@ print("  \/_____/   \/_/\/_/   \/_____/   \/_/\/_/   \/_/     \/_/\/_/   \/_/ \/
                                                                             
 
 	time.sleep(3)
-	os.system("echo 'cmatrix -L' >> ~/.bashrc")
+	
 
 
 os.system("apt install cmatrix")
-os.system("echo 'cmatrix -L' >> ~/.bashrc")
+
 os.system("clear")
 print("\033[33m")
 print("-----This is a private Instagram hacking tool by *SHUHFAN* please use it educational purpose only-----")
